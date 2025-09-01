@@ -19,8 +19,6 @@ I enjoy experimenting with deep learning models, building small games, and tryin
 - [**try_ur5_gazebo_moveit_rviz**](https://github.com/catcatcat23/try_ur5_gazebo_moveit_rviz)  
   🤖 First steps into robotics: simulating a UR5 arm with Gazebo + MoveIt + RViz.  
 
-- [**blackjack-game**](https://github.com/catcatcat23/blackjack-game)  
-  🃏 A simple C++ **Blackjack game** project — because coding should be fun too!  
 
 ---
 
